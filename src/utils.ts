@@ -1,0 +1,1 @@
+export const STREAK_RESET_WINDOW = 3600000;
