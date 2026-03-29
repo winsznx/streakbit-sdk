@@ -1,0 +1,1 @@
+export const STREAK_GRACE_PERIOD = 86400000;
