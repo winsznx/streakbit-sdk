@@ -1,6 +1,6 @@
 {
   "name": "@winsznx/streakbit-sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "TypeScript SDK for building with the StreakBit habit and streak protocol.",
   "license": "MIT",
   "author": "winsznx",
